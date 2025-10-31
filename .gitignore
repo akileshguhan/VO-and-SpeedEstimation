@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+vo_app/
+.env
+
+# Data & Media - Do not upload videos!
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.png
+
+# Streamlit
+.streamlit/
+
+# OS-specific
+.DS_Store
+Thumbs.db
